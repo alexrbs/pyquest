@@ -1,0 +1,4 @@
+# Eclipse and PyDev project files #
+###################################
+*.project
+*.pydevproject
